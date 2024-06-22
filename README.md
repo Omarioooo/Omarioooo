@@ -1,4 +1,4 @@
-![Header](https://www.canva.com/p/templates/EAFwHpD-tmI-black-and-orange-cute-spooky-halloween-desktop-wallpaper/https://www.canva.com/p/templates/EAFwHpD-tmI-black-and-orange-cute-spooky-halloween-desktop-wallpaper/)
+![Header](https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/1f78963b00f40e00a2d08e4a4bc3b17998d1d22b/header-image.png)
 
 # Hello, I'm Omar Mohamed! 👋
 
