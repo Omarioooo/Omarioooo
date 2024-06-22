@@ -16,9 +16,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om1963448@gmail.com)
 
 ## Skills
-- **Programming Languages:** Java, Python, JavaScript
-- **Backend Development:** Node.js, Express.js, Spring Boot
-- **Database Management:** MySQL, MongoDB, PostgreSQL
+- **Programming Languages:** Java & Swing, Python
+- **Backend Development:** Spring Boot
+- **Database Management:** MySQL
 - **Version Control:** Git, GitHub
 - **Operating Systems:** Linux
 
@@ -26,7 +26,6 @@
 - 💻 Programming and solving coding challenges
 - 🎮 Gaming and exploring new technologies
 - 📖 Reading tech blogs and staying updated with the latest trends
-- 🎨 Designing and creating user-friendly interfaces
 - 🐧 Exploring Linux
 
 ## Project
