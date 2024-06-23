@@ -1,4 +1,4 @@
-![Header](https://github.com/Omarioooo/Omarioooo/blob/main/programming.webp)
+![Header](https://raw.githubusercontent.com/Omarioooo/Omarioooo/3e6971bf14af0248989dfd076fcd59318d6c45b4/coding.jpg)
 
 # Hello, I'm Omar Mohamed! 👋
 
