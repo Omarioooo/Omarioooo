@@ -1,4 +1,4 @@
-![Header](https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/1f78963b00f40e00a2d08e4a4bc3b17998d1d22b/header-image.png)
+![Header](https://raw.githubusercontent.com/Omarioooo/Omarioooo/b9694b2b33f7c389d8bec7958e9f281e941ce213/programming.gif)
 
 # Hello, I'm Omar Mohamed! 👋
 
