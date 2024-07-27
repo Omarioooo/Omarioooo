@@ -11,7 +11,7 @@
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omariooo)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourusername)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100027982703911&locale=ar_AR)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om1963448@gmail.com)
 
 <img src="https://raw.githubusercontent.com/Omarioooo/Omarioooo/b9694b2b33f7c389d8bec7958e9f281e941ce213/programming.gif" width="400">
