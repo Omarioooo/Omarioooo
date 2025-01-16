@@ -29,10 +29,10 @@
 - 🐧 Exploring Linux
 
 ## Project
-- [HospitalSystem](https://github.com/Omarioooo/HospitalSystem) - A system for a hospital with its database.
-- [EmployeeMangementSystem](https://github.com/Omarioooo/Employee-Mangement-System) - A simple project aim to mange the employee system for a company (Java & SQLServer).
-- [SnakeGame](https://github.com/Omarioooo/SnakeGame) - A simple Snake game built using Java.
+- [Hospital System](https://github.com/Omarioooo/HospitalSystem) - A system for a hospital with its database.
+- [Employee Mangement System](https://github.com/Omarioooo/Employee-Mangement-System) - A simple project aim to mange the employee system for a company (Java & SQLServer).
+- [Snake Game](https://github.com/Omarioooo/SnakeGame) - A simple Snake game built using Java.
 - [E-commerce system](https://github.com/Omarioooo/E-commerce-system) - A Small online markert built by java & swing.
 
 ## Let's Connect!
-Feel free to reach out to me on any of the social platforms above. I'm always open to interesting conversations and collaboration opportunities -[Mail](omarmohamed86@gmail.com)!
+Feel free to reach out to me on any of the social platforms above. I'm always open to interesting conversations and collaboration opportunities - [Mail](mailto:omarmohamed86@gmail.com)!
