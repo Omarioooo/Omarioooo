@@ -35,4 +35,4 @@
 - [E-commerce system](https://github.com/Omarioooo/E-commerce-system) - A Small online markert built by java & swing.
 
 ## Let's Connect!
-Feel free to reach out to me on any of the social platforms above. I'm always open to interesting conversations and collaboration opportunities - [Mail](mailto:omarmohamed86@gmail.com)!
+- [Mail me](mailto:omarmohamed86@gmail.com) - and feel free to reach out to me on any of the social platforms above. I'm always open to interesting conversations and collaboration opportunities !
