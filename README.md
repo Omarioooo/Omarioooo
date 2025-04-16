@@ -5,7 +5,7 @@
 ## About Me
 🎓 I'm a student in the Faculty of Computer Science, specializing in Data Science.  
 👀 I have a greater interest in backend development.  
-💻 I'm passionate about learning Java and love spending time on the computer.  
+💻 I'm passionate about `Software Engineering Core`.  
 🚀 I enjoy programming and dedicating a lot of my time to improving my skills.  
 🐧 I'm also interested in Linux.
 
@@ -17,14 +17,16 @@
 <img src="https://raw.githubusercontent.com/Omarioooo/Omarioooo/b9694b2b33f7c389d8bec7958e9f281e941ce213/programming.gif" width="400">
 
 ## Skills
-- **Programming Languages:** Java, Python
-- **Database Management:** MSSQL, MySQL
-- **Version Control:** Git, GitHub
-- **Operating Systems:** Linux
+- **Programming Languages:** __`Java`__, __`Python`__, __`Java Script`__
+- **Relational Database:** __`MSSQL`__, __`MySQL`__
+- **NoSQL Database:** __`MongoDB`__
+- **Web Development:**__`HTML`__, __`CSS`__ 
+- **Version Control:** __`Git`__, __`GitHub`__
+- **Operating Systems:** __`Linux`__
+- **Network Fundamentals:**
 
 ## Hobbies & Interests
 - 💻 Programming and solving coding challenges
-- 🎮 Gaming and exploring new technologies
 - 📖 Reading tech blogs and staying updated with the latest trends
 - 🐧 Exploring Linux
 
